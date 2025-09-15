@@ -1,0 +1,20 @@
+# Hugo build output
+/public
+/resources/_gen/
+
+# Hugo cache
+.cache/
+hugo_stats.json
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (如有前端构建)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE/Editor folders
+.vscode/
+.idea/
