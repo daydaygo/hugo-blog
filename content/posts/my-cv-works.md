@@ -4,10 +4,13 @@ draft = false
 title = '陈志林-作品附件'
 +++
 
-## hyperf: 开源PHP微服务框架
+## 微服务与云生
 
-- github PHP微服务star第一, 6.6k
-- 核心开发组和50+公司都在使用
+- [微服务技术小结 | 20250923 - 简书](https://www.jianshu.com/p/64af3ab070f5)
+- hyperf: 开源PHP微服务框架
+  - github PHP微服务star第一, 6.6k
+  - 核心开发组和50+公司都在使用
+- [基于阿里云SAE的服务自动化构建系统架构](https://www.jianshu.com/p/693d0762812d) 弹性/按量付费/服务治理/监控告警/链路追踪/日志/devops, 应用落地和保驾护航, 全都有了
 
 > - 官网: https://hyperf.io/
 > - Who’s using Hyperf? https://github.com/hyperf/hyperf/issues/1400
@@ -39,5 +42,4 @@ title = '陈志林-作品附件'
 
 ## 其他
 
-- [基于阿里云SAE的服务自动化构建系统架构](https://www.jianshu.com/p/693d0762812d) 弹性/按量付费/服务治理/监控告警/链路追踪/日志/devops, 应用落地和保驾护航, 全都有了
 - [leetcode: 682解答 1.5k提交](https://leetcode.cn/u/daydaygo)
