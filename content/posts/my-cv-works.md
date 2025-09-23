@@ -4,7 +4,7 @@ draft = false
 title = '陈志林-作品附件'
 +++
 
-## 微服务与云生
+## 微服务与云原生
 
 - [微服务技术小结 | 20250923 - 简书](https://www.jianshu.com/p/64af3ab070f5)
 - hyperf: 开源PHP微服务框架
