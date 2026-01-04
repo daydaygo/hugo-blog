@@ -14,6 +14,7 @@ title = 'iSales 光年触达'
 
 - CEO 潘一鸣
     - 公众号 - 潘一鸣
+    - [2025创业总结：从ToB死刑到百万美金，我总归是趟过了这条河](https://mp.weixin.qq.com/s/sIif_0RiOFSCCs4zMQJemw)
     - [一个普通创业者的AI创业新手攻略](https://mp.weixin.qq.com/s/uOpuK66khocj659iehShQA)
     - [我的思维框架：《产品逻辑之美》节选](https://mp.weixin.qq.com/s/In7ZBWHeHCs-bcJfovFf4Q)
 - 技术总监 陈志林
