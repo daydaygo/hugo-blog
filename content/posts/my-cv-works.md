@@ -4,6 +4,10 @@ draft = false
 title = '陈志林-作品附件'
 +++
 
+## aicoding
+
+- [daydaygo/hello-agents-go: A minimal Go implementation of AI Agent framework, migrated from hello-agents.](https://github.com/daydaygo/hello-agents-go/tree/20260322_only_openai?tab=Apache-2.0-1-ov-file)
+
 ## 微服务与云原生
 
 - [微服务技术小结 | 20250923 - 简书](https://www.jianshu.com/p/64af3ab070f5)
@@ -13,7 +17,7 @@ title = '陈志林-作品附件'
 - [基于阿里云SAE的服务自动化构建系统架构](https://www.jianshu.com/p/693d0762812d) 弹性/按量付费/服务治理/监控告警/链路追踪/日志/devops, 应用落地和保驾护航, 全都有了
 
 > - 官网: https://hyperf.io/
-> - Who’s using Hyperf? https://github.com/hyperf/hyperf/issues/1400
+> - Who's using Hyperf? https://github.com/hyperf/hyperf/issues/1400
 > - https://github.com/search?q=language%3Aphp+microservice&type=repositories&s=stars&o=desc
 
 ## 技术博客
