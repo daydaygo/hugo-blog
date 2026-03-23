@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://daydaygo.github.io/hugo-blog/'
 languageCode = 'zh-cn'
 title = '编程人生'
 theme = 'ananke'
 
 [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[caches.images]
+dir = ':cacheDir/images'
