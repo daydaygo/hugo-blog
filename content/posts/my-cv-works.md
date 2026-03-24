@@ -9,6 +9,8 @@ title = '陈志林-作品附件'
 - [daydaygo/eino-skill: Eino 框架 AI 编码助手 Skill](https://github.com/daydaygo/eino-skill)
   - AI 编码助手技能，帮助生成 CloudWeGo Eino 框架 LLM 应用代码
   - 覆盖 Agent 开发、组件使用、Chain/Graph 编排、流式处理、人机协作等场景
+  - [deer-go: Deep Research](https://github.com/daydaygo/eino-skill-examples/blob/main/AGENTS_VISUALIZATION.md#deer-go)
+  - [manus](https://github.com/daydaygo/eino-skill-examples/blob/main/AGENTS_VISUALIZATION.md#manus)
 - [daydaygo/eino-skill-examples: Eino 框架完整示例集合](https://github.com/daydaygo/eino-skill-examples)
   - 所有示例代码均通过 eino-skill AI 编码生成，验证 AI 辅助开发能力
   - 60+ 示例，覆盖 ADK 入门、多 Agent 协作、编排、组件等
