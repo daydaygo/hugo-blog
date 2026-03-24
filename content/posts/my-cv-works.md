@@ -6,7 +6,11 @@ title = '陈志林-作品附件'
 
 ## aicoding
 
-- [daydaygo/hello-agents-go: A minimal Go implementation of AI Agent framework, migrated from hello-agents.](https://github.com/daydaygo/hello-agents-go/tree/20260322_only_openai?tab=Apache-2.0-1-ov-file)
+- [daydaygo/hello-gozero: AI coding 三层架构设计 ai-context/micro-skills/mcp-zero](https://github.com/daydaygo/hello-gozero)
+  - ai-context->做什么 micro-skills->怎么做好 mcp-zero->执行
+- [daydaygo/hello-agents-go: Go AI Agent 框架的最小化实现，从 hello-agents 迁移而来](https://github.com/daydaygo/hello-agents-go/tree/20260322_only_openai)
+  - AIcoding场景验证: 开发语言切换 py->go
+  - AIcoding问题验证: 信息老->维护技术栈 头疼医头->解决方案不work或定制化work->架构师 代码初级问题.尤其是异常处理->规范约束.功能开发完后重构
 
 ## 微服务与云原生
 
