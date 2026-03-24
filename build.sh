@@ -54,7 +54,11 @@ main() {
 
   # Build the site
   echo "Building the site..."
-  hugo build --gc --minify
+  if [ -n "${CF_PAGES_URL:-}" ]; then
+    hugo build --gc --minify --baseURL "${CF_PAGES_URL}/"
+  else
+    hugo build --gc --minify
+  fi
 
 }
 
