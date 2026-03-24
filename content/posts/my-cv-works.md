@@ -6,6 +6,12 @@ title = '陈志林-作品附件'
 
 ## aicoding
 
+- [daydaygo/eino-skill: Eino 框架 AI 编码助手 Skill](https://github.com/daydaygo/eino-skill)
+  - AI 编码助手技能，帮助生成 CloudWeGo Eino 框架 LLM 应用代码
+  - 覆盖 Agent 开发、组件使用、Chain/Graph 编排、流式处理、人机协作等场景
+- [daydaygo/eino-skill-examples: Eino 框架完整示例集合](https://github.com/daydaygo/eino-skill-examples)
+  - 所有示例代码均通过 eino-skill AI 编码生成，验证 AI 辅助开发能力
+  - 60+ 示例，覆盖 ADK 入门、多 Agent 协作、编排、组件等
 - [daydaygo/hello-gozero: AI coding 三层架构设计 ai-context/micro-skills/mcp-zero](https://github.com/daydaygo/hello-gozero)
   - ai-context->做什么 micro-skills->怎么做好 mcp-zero->执行
 - [daydaygo/hello-agents-go: Go AI Agent 框架的最小化实现，从 hello-agents 迁移而来](https://github.com/daydaygo/hello-agents-go/tree/20260322_only_openai)
