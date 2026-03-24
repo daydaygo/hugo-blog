@@ -7,7 +7,7 @@ Hugo 静态博客项目的 AI 编码代理指南。
 - **类型**: Hugo 静态博客
 - **主题**: Ananke (git submodule)
 - **语言**: 中文内容
-- **部署**: GitHub Pages + Netlify
+- **部署**: GitHub Pages + Netlify + Cloudflare Pages
 
 ## 构建命令
 
@@ -72,8 +72,34 @@ hugo-blog/
 ├── archetypes/
 │   └── default.md    # 新文章模板
 ├── public/           # 构建输出 (gitignore)
-└── netlify.toml      # Netlify 配置
+├── netlify.toml      # Netlify 配置
+├── wrangler.toml     # Cloudflare Workers 配置
+└── build.sh          # Cloudflare 构建脚本
 ```
+
+## 部署配置
+
+### Netlify
+
+配置文件: `netlify.toml`
+
+- 自动安装 Dart Sass、Go、Hugo
+- 构建命令: `hugo --gc --minify --baseURL "${URL}"`
+- 输出目录: `public/`
+
+### Cloudflare Pages
+
+配置文件: `wrangler.toml`, `build.sh`
+
+- 通过 Cloudflare Workers 部署
+- 构建脚本安装完整依赖链
+- 时区设置: `Asia/Shanghai`
+
+部署步骤:
+1. 推送代码到 GitHub
+2. 在 Cloudflare Dashboard 创建 Workers 项目
+3. 连接 GitHub 仓库
+4. 选择仓库并部署
 
 ## 代码风格指南
 
@@ -183,7 +209,7 @@ Type 类型:
 - 中英文之间添加空格: `使用 Hugo 构建`
 - 中文与数字之间添加空格: `版本 0.150.0`
 - 使用全角标点符号
-- 专有名词保持原样: `GitHub`, `Hugo`, `Netlify`
+- 专有名词保持原样: `GitHub`, `Hugo`, `Netlify`, `Cloudflare`
 
 ## 常见任务
 
