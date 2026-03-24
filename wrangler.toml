@@ -1,11 +1,11 @@
 name = 'hugo-blog'
 compatibility_date = '2025-07-31'
 
-[vars]
-CF_PAGES_URL = 'https://hugo-blog.1252409767.workers.dev'
-
 [build]
 command = 'chmod a+x build.sh && ./build.sh'
+
+[build.upload]
+format = 'service-worker'
 
 [assets]
 directory = './public'

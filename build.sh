@@ -9,6 +9,12 @@ main() {
 
   export TZ=Asia/Shanghai
 
+  # Cloudflare Workers 部署时设置 baseURL
+  # 如果未设置 BASE_URL，使用 Cloudflare Worker 默认域名
+  if [ -z "${BASE_URL:-}" ]; then
+    BASE_URL="https://hugo-blog.1252409767.workers.dev"
+  fi
+
   # Install Dart Sass
   echo "Installing Dart Sass ${DART_SASS_VERSION}..."
   curl -sLJO "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
@@ -54,11 +60,8 @@ main() {
 
   # Build the site
   echo "Building the site..."
-  if [ -n "${CF_PAGES_URL:-}" ]; then
-    hugo build --gc --minify --baseURL "${CF_PAGES_URL}/"
-  else
-    hugo build --gc --minify
-  fi
+  echo "Using baseURL: ${BASE_URL}"
+  hugo build --gc --minify --baseURL "${BASE_URL}/"
 
 }
 
