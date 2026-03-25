@@ -6,14 +6,20 @@ title = '陈志林-作品附件'
 
 ## aicoding
 
+- [daydaygo/tech-stack-selection-skill: 技术栈选型决策助手](https://github.com/daydaygo/tech-stack-selection-skill)
+  - AI 编码技能，帮助进行结构化、量化的技术选型决策
+  - 覆盖框架选择、数据库选型、中间件对比、架构演进等场景
+  - [daydaygo/agent-go-demo: Go AI Agent 项目最佳实践示例](https://github.com/daydaygo/agent-go-demo)
+    - 使用 tech-stack-selection-skill 进行技术选型，验证 AI 辅助技术决策能力
+    - 展示从需求分析、技术选型到项目落地的完整 AI 辅助开发流程
 - [daydaygo/eino-skill: Eino 框架 AI 编码助手 Skill](https://github.com/daydaygo/eino-skill)
   - AI 编码助手技能，帮助生成 CloudWeGo Eino 框架 LLM 应用代码
   - 覆盖 Agent 开发、组件使用、Chain/Graph 编排、流式处理、人机协作等场景
-  - [deer-go: Deep Research](https://github.com/daydaygo/eino-skill-examples/blob/main/AGENTS_VISUALIZATION.md#deer-go)
-  - [manus](https://github.com/daydaygo/eino-skill-examples/blob/main/AGENTS_VISUALIZATION.md#manus)
-- [daydaygo/eino-skill-examples: Eino 框架完整示例集合](https://github.com/daydaygo/eino-skill-examples)
-  - 所有示例代码均通过 eino-skill AI 编码生成，验证 AI 辅助开发能力
-  - 60+ 示例，覆盖 ADK 入门、多 Agent 协作、编排、组件等
+  - [daydaygo/eino-skill-examples: Eino 框架完整示例集合](https://github.com/daydaygo/eino-skill-examples)
+    - 所有示例代码均通过 eino-skill AI 编码生成，验证 AI 辅助开发能力
+    - 60+ 示例，覆盖 ADK 入门、多 Agent 协作、编排、组件等
+    - [deer-go: Deep Research](https://github.com/daydaygo/eino-skill-examples/blob/main/AGENTS_VISUALIZATION.md#deer-go)
+    - [manus](https://github.com/daydaygo/eino-skill-examples/blob/main/AGENTS_VISUALIZATION.md#manus)
 - [daydaygo/hello-gozero: AI coding 三层架构设计 ai-context/micro-skills/mcp-zero](https://github.com/daydaygo/hello-gozero)
   - ai-context->做什么 micro-skills->怎么做好 mcp-zero->执行
 - [daydaygo/hello-agents-go: Go AI Agent 框架的最小化实现，从 hello-agents 迁移而来](https://github.com/daydaygo/hello-agents-go/tree/20260322_only_openai)
