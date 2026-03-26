@@ -6,6 +6,8 @@ title = '陈志林-作品附件'
 
 ## aicoding
 
+- [AI时代工程师价值：追求完全正确](https://mp.weixin.qq.com/s/ilgc3i13cKzy-7YZgTgB4g)
+  - Harness 的本质——花大量时间跟 Agent 做前期规划，挑战和完善方案，然后一键执行，转身去做下一件事
 - [daydaygo/tech-stack-selection-skill: 技术栈选型决策助手](https://github.com/daydaygo/tech-stack-selection-skill)
   - AI 编码技能，帮助进行结构化、量化的技术选型决策
   - 覆盖框架选择、数据库选型、中间件对比、架构演进等场景
