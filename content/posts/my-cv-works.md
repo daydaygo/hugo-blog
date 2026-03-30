@@ -6,6 +6,9 @@ title = '陈志林-作品附件'
 
 ## aicoding
 
+- [daydaygo/deer-flow-go: harness实践](https://github.com/daydaygo/deer-flow-go)
+  - 基于 go-zero + Eino 的 LangGraph 兼容 AI Agent 系统，DeerFlow Python 后端的 Go 重写
+  - 包含 LangGraph 兼容 API、自定义 Agent 引擎、流式输出、本地沙箱、MCP 扩展、多子代理协作、技能管理调度以及 Slack 通道集成的完整 AI Agent 运行环境
 - [AI时代工程师价值：追求完全正确](https://mp.weixin.qq.com/s/ilgc3i13cKzy-7YZgTgB4g)
   - Harness 的本质——花大量时间跟 Agent 做前期规划，挑战和完善方案，然后一键执行，转身去做下一件事
 - [daydaygo/tech-stack-selection-skill: 技术栈选型决策助手](https://github.com/daydaygo/tech-stack-selection-skill)
