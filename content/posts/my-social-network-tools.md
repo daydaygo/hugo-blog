@@ -1,5 +1,5 @@
 +++
-date = '2025-09-19T22:18:42+08:00'
+date = '2026-07-24T20:00:00+08:00'
 draft = false
 title = '陈志林 (Dayday) 的价值工具包'
 +++
@@ -10,7 +10,7 @@ title = '陈志林 (Dayday) 的价值工具包'
 
 - 高并发系统设计咨询: 可提供秒杀系统、海量设备连接管理、账务系统等场景的架构方案评审与优化建议(基于得物、直播抓娃娃、小鱼金服经验)
 - AI工程化落地咨询: 可分享LLM Agent编排、多模态数据处理、agent应用云端部署(AWS/Aliyun)及HIPAA合规认证的一手实战经验与避坑指南(基于盛大AI项目/光年触达AI营销项目)
-- AI Coding 全栈落地咨询: 范式演进(Vibe→Spec→Glue→Harness→Smile→Goal-Driven)、Harness Engineering(Skills-as-Code+前馈反馈+架构守护+验证回路+LoopGuard+Agent Skills+Verify Loop分层防御+状态外置+弹性子Agent集群+Effort五档分级)、SDD框架对比(BMAD/Spec Kit/OpenSpec/Kiro)、AI自动评测优化平台(3轮迭代90.7→97.4→99.1)、Chromium 3500万行C++ AI Coding基础设施案例、NLAH+IHR自然语言驾驭层范式、AI软件工程范式跃迁(AI中心范式/隐性知识蒸馏)、OpenSpec 工作流(explore→propose→apply→archive)、Spec 三层结构(需求→知识→能力→光谱模型)、上下文工程(L0/L1/L2 三层)、项目"宪法"(AGENTS.md + 渐进式披露)、AI Coding 组织落地(成熟度模型 L1-L5、超级个体、认知债管理、团队实训体系)——9个月深度一线实践, 从"让 AI 写代码"到"建一个 AI 能自己转起来的环境"
+- AI Coding 全栈落地咨询: 范式演进(Vibe→Spec→Glue→Harness→Smile→Goal-Driven、四代工程层Prompt Engineering→Context Engineering→Harness Engineering→Loop Engineering)、熵框架(H(Y)=I(X;Y)+H(Y|X)覆盖层+填补层, 得物L3知识治理52%→91%)、补偿面迁移(Harness组件随模型进步做减法)、Harness Engineering(Skills-as-Code+前馈反馈+架构守护+验证回路+LoopGuard+Agent Skills+Verify Loop分层防御+状态外置+弹性子Agent集群+Effort五档分级)、SDD框架对比(BMAD/Spec Kit/OpenSpec/Kiro)、AI自动评测优化平台(3轮迭代90.7→97.4→99.1)、Ponytail代码品味守卫(6级懒惰阶梯, 代码量-80~94%)、ECC Agent长任务退化驯化(五层架构+确定性Hook)、Headroom可逆上下文压缩(降低Context Rot让Loop不退化)、Loop五构件(调度/知识/连接/协作/记忆, 工业数据人力运维成本71%→9%)、腾讯TAB六层资产体系(Rule→Skill→SubAgent→Workflow→Scripts→MCP)、腾讯WeTV领域模型契约(L0-L4五层门禁)、无岳水流理论(堤坝式边界/水闸式Checkpoint/安全通道)、Chromium 3500万行C++ AI Coding基础设施案例、OpenSpec 工作流(explore→propose→apply→archive)、Spec 三层结构(需求→知识→能力→光谱模型)、上下文工程(L0/L1/L2 三层)、项目"宪法"(AGENTS.md + 渐进式披露)、AI Coding 组织落地(成熟度模型 L1-L5、超级个体、认知债管理、团队实训体系、Q2实证4.64x交付跃迁+37%集中度+2135 MR)——12个月深度一线实践, 从"让 AI 写代码"到"建一个 AI 能自己转起来的环境"
 - 老项目 AI 治理方案: 行为基线优先(双端对比+缓存分析+差异降噪)、存量修复+增量拦截双轨治理、Rules+Skills 双轮驱动、灰度回滚策略——方法论源于 54 万行 PHP→Java 迁移/B 站代码债务治理/快手 Feature Flag 治理先例, 可复制到任何老系统重构场景
 - 系统稳定性治理方案: 提供从监控设计、慢SQL治理、到全链路压测的稳定性建设方法论与Checklist(基于得物将系统从倒数治理到TOP3的经验)
 - 微服务与云原生转型方案: 提供技术选型、迁移路径、团队协作流程的完整参考(基于萌推微服务改造和得物容器化经验)
@@ -20,7 +20,7 @@ title = '陈志林 (Dayday) 的价值工具包'
 - 开源项目
   - Hyperf: GitHub星数第一的PHP协程微服务框架.可作为企业技术选型的可靠选项,您可提供核心技术支持
 - 技术博客与文章: 154篇技术文章(简书),涵盖支付系统、服务器编程、直播系统等.可作为高质量的学习参考资料赠予他人
-- 个人知识库 + 知识工程体系: AI 原生知识管理系统(Karpathy LLM Wiki 三层架构对齐 + 三层主题地图 Foundation/Career/Trend), 含 graphify 知识图谱查询分析、Skills 程序记忆层(20+ 可复用技能, 含 cc-skills-golang Go技能包/wsgo Go工程模板/wspy Python工程模板)、RepoWiki 代码文档同步、wiki-ingest/lint/compress 自动化流程。可分享学习方法论(KMST 知识地图学习法、LLM Wiki 工程实践、知识图谱工程化)或特定主题的笔记
+- 个人知识库 + 知识工程体系: AI 原生知识管理系统(Karpathy LLM Wiki 三层架构完全对齐 + 三层主题地图 Foundation/Career/Trend), 含 graphify 知识图谱查询分析(path发现+explain归因+AST增量更新)、Skills 程序记忆层(25+ 可复用技能, 含 cc-skills-golang Go技能包/wsgo Go工程模板/wspy Python工程模板)、RepoWiki 代码文档同步、wiki-ingest 7步自动化摄入流程(分析→raw→分类→wiki→索引→日志→lint)、wiki-lint 5项健康检查(断裂链接/孤立页面/INDEX完整性/未引用raw/frontmatter)、wiki-compress 内容压缩, 置信度三级分类(high/medium/low)+5种关系标签(related/supports/conflicts/extends/prerequisite)。可分享学习方法论(KMST 知识地图学习法、LLM Wiki 工程实践、知识图谱工程化)或特定主题的笔记
 
 3. 解决方案与模板包
 
@@ -29,21 +29,21 @@ title = '陈志林 (Dayday) 的价值工具包'
 - 1on1沟通模板: 结构化的问题清单,帮助管理者高效进行一对一沟通(源自1on1笔记)
 - 行为面试STAR案例库: 8个高质量的项目案例,可用于团队招聘参考或面试技巧分享
 - AI Coding 落地模板包: 含 AGENTS.md 编写模板、OpenSpec 完整工作流(Proposal→Design→Tasks)、Harness 验证脚本模板、Skills 开发模板——直接复用团队最佳实践, 快速启动 AI Coding 转型
-- 时间管理 3D 框架模板: 基于《时间管理的奇迹》E-A-D-P-C 聚焦漏斗(消除>自动化>委派>拖延>专注), 含行动清单、每周 15 分钟复盘模板、AI 自动化三件套(摘要生成/周报生成/会议纪要)、晨间习惯与认知主权实践——一套将时间复利理念落地的实操工具
+- 时间管理 3D 框架与高回报习惯体系: 基于《时间管理的奇迹》E-A-D-P-C 聚焦漏斗(消除>自动化>委派>拖延>专注), 含 10 条行动清单(每天跑聚焦漏斗/先开刀后提效25小时实验法/AI三件套/意义维度过滤/专注时段/80分策略/批量处理+战略拖延/识别委派窗口/8%时间复利投资/每周15分钟意义复盘)、书面反思(哈佛研究: 每日10分钟绩效提升22%, 晋升概率高47%)、晨间仪式(CAR皮质醇觉醒反应: 运动30分+冥想20分+晒太阳15分+彩虹早餐)、晚间闭环(整理房间+书面反思三问+感恩日记+明日计划)、健康基石(运动/营养/睡眠/体检)——一套将时间复利理念落地的实操工具
 
 ## 知识体系工具包 (我的专业领域)
 
 核心技术领域
 
 - AI工程化: Agent 编排、RAG 高级架构、模型评测与切换、提示词工程
-- AI Coding 工程: 范式演进(Vibe→Spec→Glue→Harness→Smile→Goal-Driven)、Harness Engineering(前馈反馈+架构守护+Agent Skills+验证回路+LoopGuard+Verify Loop分层防御+状态外置+弹性子Agent集群+Effort五档分级)、AI Agent可观测性(LoongSuite Pilot开源/AgentLoop/STAROps)、AI Coding可观测性(半黑盒/证据链/三重角色)、AI Coding指标度量体系、OpenSpec 工作流、Skills-as-Code 体系、RepoWiki、上下文工程(L0/L1/L2 三层)、AI 编码规范(7 条规范 + 16 条红线)、认知债管理、组织成熟度评估、AI 可观测性
+- AI Coding 工程: 范式演进(Vibe→Spec→Glue→Harness→Smile→Goal-Driven、四代工程层Prompt→Context→Harness→Loop)、熵框架(H(Y)=I(X;Y)+H(Y|X))、Harness Engineering(前馈反馈+架构守护+Agent Skills+验证回路+LoopGuard+Verify Loop分层防御+状态外置+弹性子Agent集群+Effort五档分级)、补偿面迁移、Loop Engineering(五构件调度/知识/连接/协作/记忆)、AI Agent可观测性(LoongSuite Pilot开源/AgentLoop/STAROps)、AI Coding可观测性(半黑盒/证据链/三重角色)、AI Coding指标度量体系、OpenSpec 工作流、Skills-as-Code 体系、RepoWiki、上下文工程(L0/L1/L2 三层)、AI 编码规范(7 条规范 + 16 条红线 + Ponytail 6级懒惰阶梯)、认知债管理、组织成熟度评估、ECC Agent退化驯化、Headroom上下文压缩
 - 架构设计: 高可用、高性能、可扩展性设计原则(契约精神、降级熔断、冗余设计)
 - 并发编程: Go并发模式(CSP)、Java JUC、同步原语、并发问题排查
 
 管理方法论
 
 - 技术管理: 技术战略、架构决策、研发效能、团队梯队建设
-- 个人效能: GTD 时间管理、三维时间管理(《时间管理的奇迹》E-A-D-P-C 聚焦漏斗)、要事第一、不完美权限(80 分交付策略)、时间投资 8% 复利法则、高效学习策略(费曼学习法、主题阅读)
+- 个人效能: GTD 时间管理、三维时间管理(《时间管理的奇迹》E-A-D-P-C 聚焦漏斗)、书面反思(哈佛研究: 绩效+22%, 晋升概率+47%)、要事第一、不完美权限(80 分交付策略)、时间投资 8% 复利法则、高效学习策略(费曼学习法、主题阅读)、晨间认知主权(CAR皮质醇觉醒反应)
 - 思维模型: 第一性原理、5Why分析法、系统思维、批判性思维
 
 行业洞察
