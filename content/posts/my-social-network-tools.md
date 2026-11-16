@@ -10,8 +10,9 @@ title = '陈志林 (Dayday) 的价值工具包'
 
 - 高并发系统设计咨询: 秒杀、海量设备连接、账务系统架构评审与优化
 - AI工程化落地咨询: LLM Agent编排、多模态数据处理、云端部署 (AWS/Aliyun)、HIPAA合规
-- AI Coding 全栈落地咨询: 范式演进 (Vibe→Spec→Glue→Harness→Smile→Goal-Driven)、熵框架、Harness Engineering、SDD框架对比 (BMAD/Spec Kit/OpenSpec/Kiro)、AI自动评测 (3轮 90.7→97.4→99.1)、Ponytail 代码守卫 (代码量 -80~94%)、ECC 长任务驯化、Headroom 上下文压缩、Loop 五构件、腾讯 TAB 六层资产体系、WeTV 领域契约、OpenSpec 工作流、上下文工程、组织落地 (成熟度 L1-L5, 实证 4.64x 交付跃迁)——12个月一线实践
-- 老项目 AI 治理方案: 行为基线优先、存量修复+增量拦截双轨、Rules+Skills 双轮驱动、灰度回滚
+- AI Coding 全栈落地咨询: 范式演进 (Vibe→Harness→Goal-Driven), Harness 三阶段演进与 11 个落地坑, 三层验证栈与验证资产化, SDD 对比 (BMAD/Spec Kit/OpenSpec/Kiro), AI 自动评测 (90.7→97.4→99.1), 腾讯 TAB 六层资产与 WeTV 领域契约, RSI 四道门, QCon 上海 2026 五机制, 组织落地 (L1-L5, 4.64x) - 12 个月实践
+- 交付验证与老系统重写咨询: 三层验证栈与验证资产化, 3 人 3 个月 Harness 重写 90 万行旧系统
+- 老项目 AI 治理方案: 行为基线优先, 存量修复+增量拦截双轨, Rules+Skills 双轮驱动, 灰度回滚
 - 系统稳定性治理: 监控设计、慢SQL治理、全链路压测方法论与 Checklist
 - 微服务与云原生转型: 技术选型、迁移路径、团队协作流程参考
 
@@ -19,7 +20,7 @@ title = '陈志林 (Dayday) 的价值工具包'
 
 - 开源项目: Hyperf, GitHub 星数第一的 PHP 协程微服务框架, 可提供核心技术支持
 - 技术博客: 154 篇技术文章 (简书), 覆盖支付系统、服务器编程、直播系统
-- 个人知识库 + 知识工程体系: LLM Wiki 三层架构 + 主题地图, 含 graphify 知识图谱、Skills 程序记忆层 (25+ 技能)、RepoWiki、wiki-ingest 7步摄入、wiki-lint 5项检查、wiki-compress 压缩、置信度三级分类 + 5种关系标签
+- 个人知识库 + 知识工程体系: LLM Wiki 三层架构 (raw→wiki→skills) + 主题地图, 含 codegraph 代码图谱, Skills 程序记忆层 (85 技能), RepoWiki 数据层自动化, 摄入/体检/压缩脚本, 置信度三级 + 5 种关系标签, 对标 Karpathy Wiki
 
 3. 解决方案与模板包
 
